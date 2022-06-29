@@ -1,0 +1,27 @@
+.bill
+{
+    text-align: center;
+}
+table,th,tr,td 
+{
+    border-collapse: collapse;
+    margin-left: 200px;
+    border: 1px solid black;
+    padding: 10px; 
+    width: 800px;
+    background-color: aqua;
+}
+select{
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px; 
+    background-color: aqua;
+}
+select:hover{
+    color: rgb(126, 70, 179);
+    background-color: rgb(169, 219, 221);
+}
+.val
+{
+    text-align: end;
+}
